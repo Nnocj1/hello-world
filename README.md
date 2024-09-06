@@ -4,7 +4,7 @@ This is my software to say "Hello World"
 
 This software is just to greet the world with an 'Hello'
 
-The purpose for creating this is to meet the week 1 requirement and demonstrate understanding of assignment instruction for Applied programming. 
+The purpose for creating this is to meet the week 1 requirement and demonstrate understanding of assignment instruction for Applied programming CSE310. 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
